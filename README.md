@@ -1,5 +1,5 @@
 # Beyond The Senses
-`This repo only consists of the DSP part`
+`This repo is a WIP and only consists of the DSP part (hence the folder name)`
 
 Joint project aiming to support research on sensory stimuli and occupational therapy, with a specific focus on improving everyday life of people suffering from multiple sclerosis (MS).
 
