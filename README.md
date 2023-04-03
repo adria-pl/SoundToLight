@@ -7,6 +7,8 @@ Program running on the Bela platform consisting of 4 x 6th-order custom bandpass
 
 Second order biquad filters originally taken from the Bela library, optimized to TI TLV320 specs & modified to achieve higher order by cascading.
 
+The project is to include a 128x64px OLED screen to read the filters' center frequency and make it non computer dependant.
+
 ## Credits:
 #### **Patron:** Josep Mª Roviras
 #### **PLC programmer:** Arnau Fontanet
